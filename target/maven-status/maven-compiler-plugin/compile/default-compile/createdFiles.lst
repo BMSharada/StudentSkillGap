@@ -1,0 +1,8 @@
+com\skillgap\dao\SkillAssessmentDAO.class
+com\skillgap\controller\RegisterServlet.class
+com\skillgap\controller\CareerServlet.class
+com\skillgap\util\DBConnection.class
+com\skillgap\controller\SkillAssessmentServlet.class
+com\skillgap\dao\StudentDAO.class
+com\skillgap\model\Student.class
+com\skillgap\controller\LoginServlet.class
